@@ -1,0 +1,38 @@
+body {
+	width: 100%;
+	max-width: 100%;
+	height: 100%;
+	max-height: 100%;
+	overflow: hidden;
+
+}
+
+.canvas-container {
+	width: 100%;
+	height: 100%;
+}
+
+#myCanvas {
+	/*border: solid 2px red;*/
+/*	border: solid 2px red;
+	width: 100%;
+	max-width: 100%;
+	height: 100%;
+	max-height: 100%;	*/
+}
+
+.move {
+	cursor: move;
+}
+
+.header {
+	background-color: silver;
+}
+
+.left-search-panel {
+	position: absolute;
+	top: 40px;
+	background-color: gray;
+	padding: 10px;
+	/*opacity: 0.9;*/
+}
